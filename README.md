@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 one
 two
 Three
@@ -7,3 +8,6 @@ Orange
 Green
 Yellow
 Making arbitrary changes
+=======
+booya
+>>>>>>> history
