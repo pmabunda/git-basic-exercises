@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 one
 two
 Three
@@ -10,4 +9,4 @@ Yellow
 Making arbitrary changes
 =======
 booya
->>>>>>> history
+
